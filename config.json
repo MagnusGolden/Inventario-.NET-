@@ -1,0 +1,6 @@
+{
+  "RutaProductos": "data/inventario.json",
+  "RutaOrdenes": "data/ordenes.json",
+  "FileFormat": "j",
+  "DebugMode": true
+}

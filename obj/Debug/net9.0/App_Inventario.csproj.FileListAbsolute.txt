@@ -1,0 +1,14 @@
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\bin\Debug\net9.0\App_Inventario.exe
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\bin\Debug\net9.0\App_Inventario.deps.json
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\bin\Debug\net9.0\App_Inventario.runtimeconfig.json
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\bin\Debug\net9.0\App_Inventario.dll
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\bin\Debug\net9.0\App_Inventario.pdb
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\App_Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\App_Inventario.AssemblyInfoInputs.cache
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\App_Inventario.AssemblyInfo.cs
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\App_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\App_Inventario.dll
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\refint\App_Inventario.dll
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\App_Inventario.pdb
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\App_Inventario.genruntimeconfig.cache
+C:\Users\MDSB\Programas_C#\Inventario(Dotnet)\App_Inventario\obj\Debug\net9.0\ref\App_Inventario.dll

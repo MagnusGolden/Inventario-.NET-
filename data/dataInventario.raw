@@ -1,0 +1,110 @@
+C001,Arroz Selecto,45.5,35.00
+C002,Avena Integral,12.0,65.00
+C003,Corn Flakes,8.0,150.00
+E001,Salami Super,20.0,145.00
+E002,Jamón de Pavo,2.5,280.00
+E003,Salchichas BBQ,5.0,110.00
+B001,Agua Mineral,10.0,25.00
+B002,Refresco Cola,48.0,40.00
+B003,Jugo Naranja,15.0,85.00
+L001,Leche Entera,3.0,70.00
+L002,Queso Cheddar,1.4,350.00
+L003,Yogurt Fresa,18.0,55.00
+G001,Habichuela Roja,5.5,60.00
+G002,Lentejas,14.0,50.00
+G003,Guandules,10.0,45.00
+M001,Detergente Polv,2.0,110.00
+M002,Cloro Liquido,15.0,45.00
+M003,Jabón Lavaplatos,1.0,65.00
+F001,Yuca Encerada,60.8,22.00
+F002,Azúcar Crema,40.2,38.00
+F003,Batata Dulce,15.5,25.00
+C004,Trigo Molido,10.0,40.00
+C005,Harina Maiz,20.0,32.00
+E004,Chorizo Parrill,8.0,190.00
+E005,Tocino Ahumado,5.5,320.00
+B004,Cerveza Rubia,7.0,125.00
+B005,Malta India,24.0,45.00
+L004,Mantequilla,10.0,95.00
+L005,Crema de Leche,8.0,130.00
+G004,Garbanzos Secos,12.0,75.00
+M004,Desinfectante,10.0,85.00
+M005,Papel Higienico,30.0,180.00
+F004,Papa Blanca,55.0,45.00
+F005,Cebolla Roja,22.3,55.00
+C006,Maiz Dulce,15.0,65.00
+C007,Pasta Espagueti,40.0,30.00
+E006,Mortadela,12.0,120.00
+E007,Longaniza Caser,1.5,160.00
+B006,Energizante,5.0,95.00
+B007,Té Frio Limon,0.0,60.00
+L006,Queso Blanco,15.2,210.00
+L007,Leche Condensad,2.0,85.00
+G005,Habichuela Negr,18.0,65.00
+G006,Maiz Palomitas,1.0,45.00
+M006,Esponja Brillo,25.0,25.00
+M007,Suavizante Tel,1.0,140.00
+F006,Auyama Trozos,18.5,35.00
+F007,Plátano Verde,80.0,15.00
+C008,Granola Coco,6.0,210.00
+C009,Arroz Integral,15.0,55.00
+E008,Salami Induveca,25.0,165.00
+E009,Jamón Cocido,12.0,220.00
+B008,Vino Tinto,10.0,450.00
+B009,Ron Añejo,6.0,750.00
+L008,Helado Vainilla,8.0,290.00
+L009,Leche en Polvo,15.0,350.00
+G007,Chicharo Seco,9.0,40.00
+G008,Frijol Blanco,11.0,55.00
+M008,Limpiador Piso,14.0,95.00
+M009,Bolsas Basura,20.0,120.00
+F008,Ajo en Pasta,10.0,85.00
+F009,Ají Gustoso,5.5,90.00
+C010,Coditos Pasta,25.0,28.00
+E010,Pastrami Res,4.2,450.00
+B010,Café Molido,20.0,220.00
+L010,Queso Danés,9.5,410.00
+G009,Maní Salado,15.0,35.00
+M010,Servilletas,40.0,55.00
+F010,Tomate Bugalu,30.5,40.00
+C011,Galletas Sal,18.0,65.00
+C012,Quinoa Real,8.5,185.00
+C013,Cebada Perlada,10.0,75.00
+C014,Musli Frutas,12.0,230.00
+E011,Salami Genoa,15.0,380.00
+E012,Pepperoni,9.0,295.00
+E013,Butifarra,14.5,175.00
+B011,Soda Amarga,24.0,35.00
+B012,Malta Morena,36.0,42.00
+B013,Néctar Pera,18.0,75.00
+L011,Queso Mozzarel,12.8,340.00
+L012,Kefir Natural,6.0,160.00
+L013,Postre Chocolate,20.0,45.00
+G010,Habichuela Pint,15.5,65.00
+G011,Frijol Negro,22.0,58.00
+G012,Soja en Grano,10.0,90.00
+M011,Desengrasante,8.0,115.00
+M012,Limpia Vidrios,10.0,85.00
+M013,Aromatizante,15.0,130.00
+F011,Limón Persa,40.5,45.00
+F012,Zanahoria,25.3,35.00
+F013,Pepino Verde,15.0,28.00
+C015,Lasagna Pasta,12.0,110.00
+C016,Fuchu Maiz,20.0,45.00
+E014,Mortadela Res,18.0,140.00
+E015,Tocineta Corte,7.2,280.00
+B014,Sidra Manzana,10.0,220.00
+B015,Ponche Crema,5.0,450.00
+L014,Queso de Hoja,15.0,250.00
+L015,Yogurt Griego,12.0,95.00
+G013,Alubias Blancas,10.0,85.00
+G014,Maiz en Grano,30.0,40.00
+M014,Raid Insectos,12.0,210.00
+M015,Lava Ropa Color,18.0,175.00
+F014,Cebolla Blanca,20.5,60.00
+F015,Pimiento Morron,12.4,110.00
+C017,Galletas Dulce,45.0,15.00
+E016,Morcilla,6.0,195.00
+B016,Agua de Coco,15.0,85.00
+L016,Crema Agria,10.0,120.00
+G015,Garbanzo Lata,24.0,65.00
